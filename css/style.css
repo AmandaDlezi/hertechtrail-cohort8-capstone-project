@@ -39,23 +39,23 @@ body {
 }
 /*for-section-text-start-here*/
 ::selection {
-    background: green; /* WebKit/Blink Browsers */
+    background:  brown; /* WebKit/Blink Browsers */
     color: #fff;
 }
 ::-webkit-selection {
-    background-color: green;
+    background-color: brown;
     color: #fff;
 }
 ::-ms-selection {
-    background-color: green;
+    background-color: brown;
     color: #fff;
 }
 ::-o-selection {
-    background-color: green;
+    background-color: brown;
     color: #fff;
 }
 ::-moz-selection {
-    background-color: green;
+    background-color: brown;
     color: #fff;
 }
 /* ========================================================================
@@ -342,7 +342,7 @@ ul.nav li.active a:before {
 }
 .carousel-caption h2 {
     color: #fff;
-    font-size: 75px;
+    font-size: 60px;
     font-weight: 600;
     margin-top: 0px;
     text-transform: none;
@@ -457,7 +457,7 @@ ul.nav li.active a:before {
 }
 /*Background-stylesheets-include-here*/
 .bg-sec {
-    background: green;
+    background: black;
     margin-top: 10px;
     padding: 1% 0%;
 }
@@ -1397,3 +1397,4 @@ a.btn-learn:hover {
 }
 
 /*Basic-Stylesheets-End-Here*/
+.aboutimage{ height: 280px; width: 50%;}
